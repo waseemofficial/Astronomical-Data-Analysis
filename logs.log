@@ -1,0 +1,29 @@
+2024-02-06 00:36:08,846:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-06 00:36:08,846:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-06 00:36:08,847:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-06 00:36:08,847:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-06 00:36:21,761:INFO:PyCaret ClusteringExperiment
+2024-02-06 00:36:21,761:INFO:Logging name: cluster-default-name
+2024-02-06 00:36:21,815:INFO:ML Usecase: MLUsecase.CLUSTERING
+2024-02-06 00:36:21,816:INFO:version 3.2.0
+2024-02-06 00:36:21,816:INFO:Initializing setup()
+2024-02-06 00:36:21,816:INFO:self.USI: 70ed
+2024-02-06 00:36:21,816:INFO:self._variable_keys: {'n_jobs_param', 'log_plots_param', 'html_param', 'X', 'exp_id', '_ml_usecase', 'logging_param', 'memory', 'seed', 'exp_name_log', 'data', 'USI', 'gpu_n_jobs_param', 'pipeline', '_available_plots', 'idx', 'gpu_param'}
+2024-02-06 00:36:21,816:INFO:Checking environment
+2024-02-06 00:36:21,817:INFO:python_version: 3.11.5
+2024-02-06 00:36:21,817:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-02-06 00:36:21,817:INFO:machine: AMD64
+2024-02-06 00:36:21,817:INFO:platform: Windows-10-10.0.19045-SP0
+2024-02-06 00:36:21,817:INFO:Memory: svmem(total=17048457216, available=6166474752, percent=63.8, used=10881982464, free=6166474752)
+2024-02-06 00:36:21,817:INFO:Physical Core: 2
+2024-02-06 00:36:21,817:INFO:Logical Core: 4
+2024-02-06 00:36:21,818:INFO:Checking libraries
+2024-02-06 00:36:21,818:INFO:System:
+2024-02-06 00:36:21,818:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-02-06 00:36:21,818:INFO:executable: c:\Users\ACER\anaconda3\python.exe
+2024-02-06 00:36:21,818:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-02-06 00:36:21,818:INFO:PyCaret required dependencies:
